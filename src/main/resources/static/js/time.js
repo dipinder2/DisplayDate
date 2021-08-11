@@ -1,0 +1,1 @@
+alert("time is opened");

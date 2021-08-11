@@ -1,0 +1,1 @@
+alert("date js is opened");
